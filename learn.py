@@ -8,7 +8,7 @@ for char in a:
     num = ord(char) - ord('0')
     total = total + num
 
-print(total)
+print(total) 
 
 
 
